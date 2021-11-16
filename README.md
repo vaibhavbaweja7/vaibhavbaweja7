@@ -1,4 +1,9 @@
-### Hi there friends 👋
+### Hi there 👋
+* I am Vaibhav Baweja. I am curently pursuing Masters of Computer Applications from BVICAM,IP university,Delhi.
+* My primary areas of interest are Web Development aand Data Science.
+* I have done internship at INMAS,DRDO where i developed deep learning models on EEG data using BCI
+* I have done multiple projects in deep learning,machine learning and web development.
+* I am currently brushing up my skills in Javascript and plan to learn React.
 
 <!--
 **vaibhavbaweja7/vaibhavbaweja7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
