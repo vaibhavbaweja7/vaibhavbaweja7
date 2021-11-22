@@ -4,10 +4,12 @@
 * I have done internship at INMAS,DRDO where I developed deep learning models on EEG data using BCI.
 * I have done multiple projects in deep learning,machine learning and web development.
 * I am currently brushing up my skills in Javascript and plan to learn React.
+
+
 <img 
    src="https://github-readme-stats.vercel.app/api?username=vaibhavbaweja7&show_icons=true&theme=tokyonight" 
 />
-   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavbaweja7)]   
 
 <!--
 **vaibhavbaweja7/vaibhavbaweja7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
