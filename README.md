@@ -1,10 +1,10 @@
 <h1>Hey there, I'm <a href="https://github.com/vaibhavbaweja7/">Vaibhav</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-[![Twitter][1.2]][1], [![LinkedIn][2.2]][2].
+[![Twitter][1.2]][1] [![LinkedIn][2.2]][2] 
 
 <!-- Icons -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[1.2]: https://img.icons8.com/color/48/000000/twitter--v1.png
 [2.2]: https://img.icons8.com/material-outlined/24/000000/linkedin--v1.png
 
 <!-- Links to your social media accounts -->
