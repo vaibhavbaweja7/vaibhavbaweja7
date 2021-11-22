@@ -9,9 +9,8 @@
 <a >
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavbaweja7&show_icons=true&theme=tokyonight" />
 </a>
-<a >
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavbaweja7&theme=tokyonight" />
-</a>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavbaweja7&theme=tokyonight&layout=compact" />
+
   
 
 <!--
