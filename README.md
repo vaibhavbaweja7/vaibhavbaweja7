@@ -7,7 +7,7 @@
 
 
 <a >
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavbaweja7&repo=github-readme-stats&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavbaweja7&theme=tokyonight" />
 </a>
 <a >
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavbaweja7&theme=tokyonight" />
