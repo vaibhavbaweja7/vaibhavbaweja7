@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1>Hey there, I'm <a  href="https://github.com/vaibhavbaweja7/">Vaibhav </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 * I am Vaibhav Baweja. I am curently pursuing Masters of Computer Applications from BVICAM,IP university,Delhi.🎓
 * My primary areas of interest are Web Development aand Data Science.🕸️📈 
 * I have done internship at INMAS,DRDO where I developed deep learning models on EEG data using BCI.🖥️
