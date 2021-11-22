@@ -10,7 +10,7 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 <!-- Links to your social media accounts -->
 
 [1]: https://twitter.com/vaibhav_baweja
-[2]: https://www.linkedin.com/in/vaibhavbaweja996
+[2]: https://www.linkedin.com/in/vaibhavbaweja996/
 <img src="https://komarev.com/ghpvc/?username=diyajaiswal11&style=plastic" />
 
 *  I am curently pursuing Masters of Computer Applications from BVICAM,IP university,Delhi.🎓
