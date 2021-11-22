@@ -15,12 +15,11 @@ I am a first year Masters of Computer Applications student from BVICAM,IP univer
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Nodejs-092E20?style=for-the-badge&logo=nodejs&logoColor=green"/>
  <br>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ExpressJS-000000?style=for-the-badge&logo=expressjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/postgres-0B96B2?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-07405E?style=for-the-badge&logo=mongodb&logoColor=green"/>
  </p>
 
 | <a href="https://github.com/vabhavbaweja7/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavbaweja7&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Vaibhav's github stats" /></a> | <a href="https://github.com/vaibhavbaweja7/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavbaweja7&layout=compact&theme=tokyonight&hide_border=true" /></a> |
