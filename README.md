@@ -1,7 +1,7 @@
 <h1>Hey there, I'm <a  href="https://github.com/vaibhavbaweja7/">Vaibhav </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-[![linkedin badge](https://img.shields.io/badge/vaibhavbaweja996-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/vaibhavbaweja996)
-[![twitter badge](https://img.shields.io/badge/vaibhav_baweja-30302f?style=flat&logo=twitter)](https://twitter.com/vaibhav_baweja)
-[![Gmail Badge](https://img.shields.io/badge/vaibhavbwj9@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:vaibhavbwj9@gmail.com)
+![linkedin badge](https://img.shields.io/badge/vaibhavbaweja996-30302f?style=flat&logo=linkedin)(https://www.linkedin.com/in/vaibhavbaweja996)
+![twitter badge](https://img.shields.io/badge/vaibhav_baweja-30302f?style=flat&logo=twitter)(https://twitter.com/vaibhav_baweja)
+![Gmail Badge](https://img.shields.io/badge/vaibhavbwj9@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)(mailto:vaibhavbwj9@gmail.com)
 <img src="https://komarev.com/ghpvc/?username=vaibhavbaweja7&style=plastic" />
 
 *  I am curently pursuing Masters of Computer Applications from BVICAM,IP university,Delhi.🎓
