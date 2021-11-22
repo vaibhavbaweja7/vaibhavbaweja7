@@ -23,16 +23,7 @@ I am a first year Masters of Computer Applications student from BVICAM,IP univer
   <img src="https://img.shields.io/badge/postgres-0B96B2?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
  </p>
-<!--
-I'm a 3rd year **Computer Science** student from **JSS Academy of Technical Education, Noida**. 🏫 <br> 
-I'm a **Backend Developer** in Django and a **Competitive Programmer** in Python and C++. 💻
 
-
-- 🌱 I’m currently focusing on **Frontend Web Development** and **Data Structures and Algorithms**.
-- 👯 I’d really like to collaborate on **Django** based projects.
-- 💬 I’m looking forward to contribute to **Open Source Projects**.
-- ⚡ Fun fact: In my free time, you'll find me sketching or scrolling through Twitter.
--->
 | <a href="https://github.com/vabhavbaweja7/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavbaweja7&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Vaibhav's github stats" /></a> | <a href="https://github.com/vaibhavbaweja7/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavbaweja7&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 | ------------- | ------------- |
 
