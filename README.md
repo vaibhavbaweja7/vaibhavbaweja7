@@ -12,7 +12,9 @@
 | <a href="https://github.com/vabhavbaweja7/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavbaweja7&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Vaibhav's github stats" /></a> | <a href="https://github.com/vaibhavbaweja7/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavbaweja7&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-<h2>Connect with me here:</h2>
+<h2>Connect with me here</h2>
+
+
 [![Twitter][1.2]][1] [![LinkedIn][2.2]][2] ![Gmail][3.2]
 
 <!-- Icons -->
