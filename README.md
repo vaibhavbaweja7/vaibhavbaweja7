@@ -1,9 +1,10 @@
 <h1>Hey there, I'm <a href="https://github.com/vaibhavbaweja7/">Vaibhav</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-I am a first year **Masters of Computer Applications** student from **BVICAM,IP university,Delhi.**🎓
-*🕸️ My primary areas of interest are Web Development aand Data Science.
-* 👨‍💻 have done internship at INMAS,DRDO where I developed deep learning models on EEG data using BCI.
-* ⚡I have done multiple projects in deep learning,machine learning and web development.
-* 🌱I am currently brushing up my skills in Javascript and plan to learn React.
+I am a first year **Masters of Computer Applications** student from **BVICAM,IP university,Delhi.** 
+
+-🕸️ My primary areas of interest are Web Development aand Data Science.
+- 👨‍💻 have done internship at INMAS,DRDO where I developed deep learning models on EEG data using BCI.
+- ⚡I have done multiple projects in deep learning,machine learning and web development.
+- 🌱I am currently brushing up my skills in Javascript and plan to learn React.
 
 
 | <a href="https://github.com/vabhavbaweja7/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavbaweja7&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Vaibhav's github stats" /></a> | <a href="https://github.com/vaibhavbaweja7/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavbaweja7&layout=compact&theme=tokyonight&hide_border=true" /></a> |
