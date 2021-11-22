@@ -1,7 +1,7 @@
 ### Hi there 👋
-* I am Vaibhav Baweja. I am curently pursuing Masters of Computer Applications from BVICAM,IP university,Delhi.
-* My primary areas of interest are Web Development aand Data Science.
-* I have done internship at INMAS,DRDO where I developed deep learning models on EEG data using BCI.
+* I am Vaibhav Baweja. I am curently pursuing Masters of Computer Applications from BVICAM,IP university,Delhi.🎓
+* My primary areas of interest are Web Development aand Data Science.🕸️📈 
+* I have done internship at INMAS,DRDO where I developed deep learning models on EEG data using BCI.🖥️
 * I have done multiple projects in deep learning,machine learning and web development.
 * I am currently brushing up my skills in Javascript and plan to learn React.
 
