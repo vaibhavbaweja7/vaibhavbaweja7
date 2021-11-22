@@ -1,16 +1,18 @@
 <h1>Hey there, I'm <a href="https://github.com/vaibhavbaweja7/">Vaibhav</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-[![Twitter][1.2]][1] [![LinkedIn][2.2]][2] 
+[![Twitter][1.2]][1] [![LinkedIn][2.2]][2] [![Gmail]][3.2][3]
 
 <!-- Icons -->
 
 [1.2]: https://img.icons8.com/color/48/000000/twitter--v1.png
 [2.2]: https://img.icons8.com/fluency/48/000000/linkedin.png
+[3.2]: https://img.icons8.com/color/48/000000/gmail-new.png
 
 <!-- Links to your social media accounts -->
 
 [1]: https://twitter.com/vaibhav_baweja
 [2]: https://www.linkedin.com/in/vaibhavbaweja996/
+[3] :mailto:vaibhavbwj9@gmail.com
 <img src="https://komarev.com/ghpvc/?username=diyajaiswal11&style=plastic" />
 
 *  I am curently pursuing Masters of Computer Applications from BVICAM,IP university,Delhi.🎓
