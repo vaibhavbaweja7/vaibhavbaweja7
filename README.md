@@ -5,7 +5,7 @@
 <!-- Icons -->
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/vaibhavbaweja996/vaibhavbaweja996/master/linkedin-3-16.png (LinkedIn icon without padding)
+[2.2]: https://img.icons8.com/material-outlined/24/000000/linkedin--v1.png
 
 <!-- Links to your social media accounts -->
 
