@@ -1,7 +1,5 @@
 <h1>Hey there, I'm <a href="https://github.com/vaibhavbaweja7/">Vaibhav</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-[![linkedin badge](https://img.shields.io/badge/diyajaiswal11-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/diyajaiswal11)
-[![twitter badge](https://img.shields.io/badge/@diyajaiswal_11-30302f?style=flat&logo=twitter)](https://twitter.com/diyajaiswal_11)
-[![Gmail Badge](https://img.shields.io/badge/shubhijaiswal2000@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:shubhijaiswal2000@gmail.com)
+
 <img src="https://komarev.com/ghpvc/?username=diyajaiswal11&style=plastic" />
 
 *  I am curently pursuing Masters of Computer Applications from BVICAM,IP university,Delhi.🎓
