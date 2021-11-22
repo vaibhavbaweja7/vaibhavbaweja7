@@ -5,7 +5,7 @@
 <!-- Icons -->
 
 [1.2]: https://img.icons8.com/color/48/000000/twitter--v1.png
-[2.2]: https://img.icons8.com/material-outlined/24/000000/linkedin--v1.png
+[2.2]: https://img.icons8.com/fluency/48/000000/linkedin.png
 
 <!-- Links to your social media accounts -->
 
