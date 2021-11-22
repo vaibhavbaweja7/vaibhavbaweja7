@@ -6,11 +6,11 @@
 * I am currently brushing up my skills in Javascript and plan to learn React.
 
 
-<a href="https://github.com/vaibhavbaweja7/github-readme-stats">
+<a >
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavbaweja7&repo=github-readme-stats&theme=tokyonight" />
 </a>
-<a href="https://github.com/vaibhavbaweja7/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavbaweja7&repo=convoychat" />
+<a >
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavbaweja7&theme=tokyonight" />
 </a>
   
 
