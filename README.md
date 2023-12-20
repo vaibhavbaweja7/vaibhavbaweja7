@@ -1,11 +1,11 @@
 <h1>Hey there, I'm <a href="https://github.com/vaibhavbaweja7/">Vaibhav</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-I am a second year Masters of Computer Applications student from BVICAM,IP university,Delhi. 🎓
+I am Associate Software Analyst @Clecotech International in the python team,graduated MCA from BVICAM,GGSIPU in 2023. 🎓
 
 
-* 🕸️My primary areas of interest are Web Development and Data Science.
-* 👨‍💻I have done internship at INMAS,DRDO where I developed deep learning models on EEG data using BCI.
+* 🕸️My primary areas of interest are AI,Data Science and DSA.
+* 👨‍💻I have done internships at INMAS,DRDO where I developed deep learning models on EEG data using BCI and at Siya Consulting Group where I developed machine learning algorithmns to calculate probabilty of default and credit risk.
 * ⚡I have done multiple projects in deep learning,machine learning and web development.
-* 🌱I am currently brushing up my skills in Javascript and plan to learn React.
+* 🌱I am currently upskilling and brushing my skills in AI and ML.
 
 <h2 align="left">Tech Stack</h2>
 <p align="left">
