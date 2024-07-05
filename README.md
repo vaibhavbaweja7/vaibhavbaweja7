@@ -1,5 +1,5 @@
 <h1>Hey there, I'm <a href="https://github.com/vaibhavbaweja7/">Vaibhav</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-I am Assistant System Engineer-Trainee @TCS,graduated MCA from BVICAM,GGSIPU in 2023. 🎓
+I am Assistant System Engineer @TCS,graduated MCA from BVICAM,GGSIPU in 2023. 🎓
 
 
 * 🕸️My primary areas of interest are AI,Data Science and DSA.
