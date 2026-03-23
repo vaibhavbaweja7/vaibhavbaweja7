@@ -3,8 +3,7 @@ I am  System Engineer @TCS,graduated MCA from BVICAM,GGSIPU in 2023. 🎓
 
 * I have 2 years of experience at EY, where I have built, supported, and enhanced full-stack applications like the Survey Intelligence Platform (SIP), focusing on bug fixes, performance improvements, and ensuring a smooth user experience.
 * I have worked with React.js and SharePoint to resolve production issues, deliver quick fixes, and implemented Adobe Data Layer integration for analytics in production.
-
-*I completed internships at INMAS (DRDO) and Siya Consulting Group, where I developed deep learning models on EEG (BCI) data and machine learning algorithms for credit risk and probability of default.
+* I completed internships at INMAS (DRDO) and Siya Consulting Group, where I developed deep learning models on EEG (BCI) data and machine learning algorithms for credit risk and probability of default.
 * My primary interests lie in AI, full-stack development, and DSA, and I have worked on multiple projects in deep learning, machine learning, and web development.
 
 
