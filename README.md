@@ -1,11 +1,11 @@
 <h1>Hey there, I'm <a href="https://github.com/vaibhavbaweja7/">Vaibhav</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-I am Assistant System Engineer @TCS,graduated MCA from BVICAM,GGSIPU in 2023. 🎓
+I am  System Engineer @TCS,graduated MCA from BVICAM,GGSIPU in 2023. 🎓
 
+* I have 2 years of experience at EY, where I have built, supported, and enhanced full-stack applications like the Survey Intelligence Platform (SIP), focusing on bug fixes, performance improvements, and ensuring a smooth user experience.
+* I have worked with React.js and SharePoint to resolve production issues, deliver quick fixes, and implemented Adobe Data Layer integration for analytics in production.
+*I completed internships at INMAS (DRDO) and Siya Consulting Group, where I developed deep learning models on EEG (BCI) data and machine learning algorithms for credit risk and probability of default.
+* My primary interests lie in AI, full-stack development, and DSA, and I have worked on multiple projects in deep learning, machine learning, and web development.
 
-* 🕸️My primary areas of interest are AI,Data Science and DSA.
-* 👨‍💻I have done internships at INMAS,DRDO where I developed deep learning models on EEG data using BCI and at Siya Consulting Group where I developed machine learning algorithmns to calculate probabilty of default and credit risk.
-* ⚡I have done multiple projects in deep learning,machine learning and web development.
-* 🌱I am currently upskilling and brushing my skills in AI and ML.
 
 <h2 align="left">Tech Stack</h2>
 <p align="left">
